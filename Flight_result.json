@@ -1,0 +1,397 @@
+{
+  "search_metadata":{
+    "origin": "LAX",
+    "destination": "JFK",
+    "date": "2025-12-15",
+    "passengers": 1,
+    "cabin_class": "economy"
+  },
+  "flights": [
+    {
+      "is_nonstop": true,
+      "segments":{
+        "flight_number":"AA28",
+        "departure_time": "08:00",
+        "arrival_time": "16:30"
+      },
+      "total_duration":"5h 30m",
+      "points_required": "18000",
+      "cash_price_usd": "109",
+      "tax_fee_usd": "5.60",
+      "CPP":"0.57"
+    },{
+      "is_nonstop": false,
+      "segments":{
+        "flight_number": "AA118",
+        "departure_time": "12:45",
+        "arrival_time": "11:37"
+      },
+      "total_duration": "7h 52m",
+      "points_required": "15000",
+      "cash_price_usd": "159",
+      "tax_fee_usd": "5.60",
+      "CPP":"1.02"
+    },
+    {
+      "is_nonstop": false,
+      "segments":{
+        "flight_number": "AA2",
+        "departure_time": "7:00",
+        "arrival_time":"3:32"
+      },
+      "total_duration": "5h 32m",
+      "points_required": "20000",
+      "cash_price_usd": "209",
+      "tax_fee_usd": "5.60",
+      "CPP":"1.0"
+    },
+    {
+      "is_nonstop": true,
+      "segments":{
+        "flight_number": "AA307",
+        "departure_time": "08:00",
+        "arrival_time": "4:28"
+      },
+      "total_duration": "5h 28m",
+      "points_required": "20000",
+      "cash_price_usd": "209",
+      "tax_fee_usd": "5.60",
+      "CPP": "1.0"
+    },{
+      "is_nonstop": true,
+      "segments":{
+        "flight_number": "319",
+        "departure_time": "10:15",
+        "arrival_time": "6:42"
+      },
+      "total_duration": "5h 27m",
+      "points_required": "31000",
+      "cash_price_usd": "319",
+      "tax_fee_usd": "5.60",
+      "CPP": "1.0"
+    },
+    {
+      "is_nonstop":true,
+      "segments":{
+        "flight_number":"AA32",
+        "departure_time": "11:20",
+        "arrival_time": "7:45"
+      },
+      "total_duration": "5h 25m",
+      "points_required": "27000",
+      "cash_price_usd": "249",
+      "tax_fee_usd": "5.60",
+      "CPP": "0.90"
+    },{
+      "is_nonstop": true,
+      "segments": {
+        "flight_number": "AA274",
+        "departure_time": "12:37",
+        "arrival_time": "9:00"
+      },
+      "total_duration": "5h 23m",
+      "points_required": "27500",
+      "cash_price_usd":"319",
+      "tax_fee_usd":"5.60",
+      "CPP":"1.13"
+    },
+    {
+      "is_nonstop": true,
+      "segments": {
+        "flight_number": "AA4",
+        "departure_time": "3:40",
+        "arrival_time": "11:49"
+      },
+      "total_duration": "5h 9m",
+      "points_required": "15000",
+      "cash_price_usd": "94",
+      "tax_fee_usd": "5.60",
+      "CPP": "0.58"
+    },
+    {
+      "is_nonstop": true,
+      "segments": {
+        "flight_number": "AA10",
+        "departure_time": "9:45",
+        "arrival_time": "6:00"
+      },
+      "total_duration": "5h 15m",
+      "points_required": "20000",
+      "cash_price_usd": "209",
+      "tax_fee_usd": "5.60",
+      "CPP":"1.08"
+    },{
+      "is_nonstop": false,
+      "segments": {
+        "flight_number": "AA1956",
+        "departure_time": "12:45",
+        "arrival_time": "11:37"
+      },
+      "total_duration": "7h 52m",
+      "points_required": "15000",
+      "cash_price_usd": "177",
+      "tax_fee_usd": "5.60",
+      "CPP": "1.14"
+    },
+    {
+      "is_nonstop": false,
+      "segments": {
+        "flight_number": "AA1956",
+        "departure_time": "12:45",
+        "arrival_time": "1:29"
+      },
+      "total_duration": "9h 44m",
+      "points_required":"15000",
+      "cash_price_usd": "177",
+      "tax_fee_usd": "5.60",
+      "CPP": "1.14"
+    },
+    {
+      "is_nonstop": false,
+      "segments": {
+        "flight_number": "AA2808",
+        "departure_time": "6:06",
+        "arrival_time": "7:00"
+      },
+      "total_duration": "9h 54m",
+      "points_required": "15000",
+      "cash_price_usd": "266",
+      "tax_fee_usd": "5.60",
+      "CPP": "1.7"
+    },{
+      "is_nonstop": false,
+      "segments": {
+        "flight_number": "AA2068",
+        "departure_time": "6:08",
+        "arrival_time": "5:15"
+      },
+      "total_duration": "8h 7m",
+      "points_required": "15000",
+      "cash_price_usd":"177",
+      "tax_fee_usd": "5.60",
+      "CPP": "1.14"
+    },
+    {
+      "is_nonstop": false,
+      "segments": {
+        "flight_number": "AS405",
+        "departure_time":"7:00",
+        "arrival_time": "10:59"
+      },
+      "total_duration": "12h 59m",
+      "points_required": "12500",
+      "cash_price_usd": "504",
+      "tax_fee_usd": "11.20",
+      "CPP": "3.9"
+    },
+    {
+      "is_nonstop": false,
+      "segments":{
+        "flight_number": "AA2497",
+        "departure_time": "7:59",
+        "arrival_time": "7.17"
+      },
+      "total_duration": "8h 18m",
+      "points_required": "15000",
+      "cash_price_usd": "329",
+      "tax_fee_usd":"5.60",
+      "CPP": "2.2"
+,{
+  "is_nonstop": false,
+  "segments": {
+    "flight_number": "AS748",
+    "departure_time": "8:00",
+    "arrival_time": "10:59"
+  },
+  "total_duration": "11h 59m",
+  "points_required": "15000",
+  "cash_price_usd": "259",
+  "tax_fee_usd": "5.60",
+  "CPP": "1.7"
+},{
+  "is_nonstop": false,
+  "segments": {
+    "flight_number": "AS2150",
+    "departure_time": "6:49",
+    "arrival_time": "7:00"
+  },
+  "total_duration": "9h 11m",
+  "points_required": "12500",
+  "cash_price_usd": "177",
+  "tax_fee_usd": "5.60",
+  "CPP":"1.4"
+},{
+  "is_nonstop": false,
+  "segments": {
+    "flight_number": "AS2150",
+    "departure_time": "6:49",
+    "arrival_time": "7:30"
+  },
+  "total_duration": "9h 41m",
+  "points_required": "12500",
+  "cash_price_usd": "177",
+  "tax_fee_usd": "5.60",
+  "CPP":"1.4"
+},
+{
+  "is_nonstop": false,
+  "segments": {
+    "flight_number": "AA3176",
+    "departure_time": "6:50",
+    "arrival_time": "7:30"
+  },
+  "total_duration": "9h 40m",
+  "points_required": "12500",
+  "cash_price_usd": "177",
+  "tax_fee_usd": "5.60",
+  "CPP": "1.4"
+},
+{
+  "is_nonstop": false,
+  "segments": {
+    "flight_number": "AA3176",
+    "departure_time": "6:50",
+    "arrival_time": "7:00"
+  }
+  "total_duration": "9h 10m",
+  "points_required": "15000",
+  "cash_price_usd": "177",
+  "tax_fee_usd": "5.60",
+  "CPP": "1.1"
+},{
+  "is_nonstop": false,
+  "segments": {
+    "flight_number": "AS84",
+    "departure_time": "7:00",
+    "arrival_time": "7:23"
+  },
+  "total_duration":"9h 23m",
+  "points_required": "12500",
+  "cash_price_usd": "177",
+  "tax_fee_usd": "5.60",
+  "CPP": "1.4"
+},{
+  "is_nonstop": false,
+  "segments": {
+    "flight_number": "AA6444",
+    "departure_time": "7:25",
+    "arrival_time": "7:23"
+  },
+  "total_duration": "",
+  "points_required": "25000",
+  "cash_price_usd": "177",
+  "tax_fee_usd": "5.60",
+  "CPP": "0.6"
+},
+{
+  "is_nonstop": false,
+  "segments": {
+    "flight_number": "AA6260",
+    "departure_time": "8:00",
+    "arrival_time": "7:30"
+  },
+  "total_duration": "5h 30m",
+  "points_required": "12500",
+  "cash_price_usd": "329",
+  "tax_fee_usd": "5.60",
+  "CPP": "2.5"
+},{
+  "is_nonstop": false,
+  "segments": {
+    "flight_number": "AA6260",
+    "departure_time": "8:00",
+    "arrival_time": "7:00"
+  },
+  "total_duration": "8h 0m",
+  "points_required": "19000",
+  "cash_price_usd": "329",
+  "tax_fee_usd": "5.60",
+  "CPP": "1.7"
+},{
+  "is_nonstop":false,
+  "segments": {
+    "flight_number": "AS2482",
+    "departure_time": "8:18",
+    "arrival_time":"7:00"
+  },
+  "total_duration": "7h 42m",
+  "points_required": "12500",
+  "cash_price_usd": "329",
+  "tax_fee_usd": "5.60",
+  "CPP": "2.5"
+},{
+  "is_nonstop": false,
+  "segments": {
+    "flight_number": "AS2482",
+    "departure_time": "8:18",
+    "arrival_time": "7:30"
+  },
+  "total_duration": "8h 12m",
+  "points_required": "12500",
+  "cash_price_usd": "329",
+  "tax_fee_usd": "5.60",
+  "CPP": "2.5"
+},
+{
+  "is_nonstop":false,
+  "segments": {
+    "flight_number": "AS578",
+    "departure_time": "9:09",
+    "arrival_time": "3:35"
+  },
+  "total_duration": "15h 26m",
+  "points_required": "12500",
+  "cash_price_usd": "152",
+  "tax_fee_usd": "11.20",
+  "CPP": "1.1"
+},{
+  "is_nonstop": false,
+  "segments": {
+    "flight_number": "AS3461",
+    "departure_time": "10:27",
+    "arrival_time": "3:54"
+  },
+  "total_duration": "14h 27m",
+  "points_required": "12500",
+  "cash_price_usd": "152",
+  "tax_fee_usd": "11.20",
+  "CPP": "1.1"
+},{
+  "is_nonstop": false,
+  "segments": {
+    "flight_number": "AA820",
+    "departure_time": "10:37",
+    "arrival_time": "10:00"
+  },
+  "total_duration": "8h 23m",
+  "points_required": "15000",
+  "cash_price_usd": "177",
+  "tax_fee_usd": "5.60",
+  "CPP": "1.1"
+},{
+  "is_nonstop":false,
+  "segments": {
+    "flight_number": "AA2453",
+    "departure_time": "10:49",
+    "arrival_time": "1:29"
+  },
+  "total_duration": "11h 40m",
+  "points_required": "15000",
+  "cash_price_usd": "152",
+  "tax_fee_usd": "11.20",
+  "CPP": "0.9"
+},{
+  "is_nonstop":false,
+  "segments": {
+    "flight_number": "AA2715",
+    "departure_time": "11:59",
+    "arrival_time": "11:28"
+  },
+  "total_duration": "8h 29m",
+  "points_required": "15000",
+  "cash_price_usd":"177",
+  "tax_fee_usd": "5.60",
+  "CPP": "1.1"
+}
+    ]
+}
